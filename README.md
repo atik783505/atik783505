@@ -1,32 +1,41 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Atikur Rahman
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Atikur%20Rahman&fontSize=45&fontColor=ffffff" />
-</p>
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=200&section=header&text=Atikur%20Rahman&fontSize=40&fontColor=ffffff)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Learner;Problem+Solver;Based+in+Bangladesh" />
-</p>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atik783505&color=58A6FF&style=flat-square&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/atik783505?label=Followers&style=flat-square&color=1F6FEB" />
-</p>
+# Hey, I'm Atikur Rahman!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Learner;Problem+Solver;Based+in+Bangladesh)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🚀 About Me
-I'm a passionate **Frontend Developer** focusing on building modern, responsive web apps.
+## 🚀 About Me
 
-* 🔭 Currently working on **DigiTools E-commerce**
-* 🌱 Learning **Data Structures & Algorithms (C++)**
-* 💬 Ask me about **React, Tailwind CSS, or JavaScript**
-* ⚡ Fun fact: I have a deep interest in **Naval Architecture!**
+<table align="center">
+  <tr>
+    <td width="55%" style="vertical-align: top;">
+      <br />
+      <ul>
+        <li>🏢 Working on <b>Frontend Projects</b> using <b>React & Next.js</b></li>
+        <li>🌱 Learning <b>Data Structures & Algorithms (C++)</b></li>
+        <li>⚡ Deep interest in <b>Naval Architecture & Shipping</b></li>
+        <li>💬 Ask me about <b>UI/UX, Tailwind CSS, or JavaScript</b></li>
+      </ul>
+    </td>
+    <td width="45%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicXF6bm96amV6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
+## 🛠️ Tech Stack
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,mongodb,express,nodejs,cpp,git,github&theme=dark" />
   </a>
@@ -34,26 +43,29 @@ I'm a passionate **Frontend Developer** focusing on building modern, responsive 
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atik783505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atik783505&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🐍 Activity Graph
+
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=atik783505&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-user-contribution-graph-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=atik783505&outputs=color-snake.svg&color_snake=%2358A6FF&dot_color_empty=%230d1117&dot_color_filled=%231F6FEB">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-user-contribution-graph-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=atik783505&outputs=color-snake.svg&color_snake=%231F6FEB&dot_color_empty=%23ebedf0&dot_color_filled=%23216e39">
+    <img alt="GitHub contribution grid snake animation" src="https://github-user-contribution-graph-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=atik783505&outputs=color-snake.svg">
+  </picture>
 </p>
 
 ---
 
-### 🐍 Activity Graph
-<p align="center">
-  <img src="https://github-user-contribution-graph-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=atik783505&outputs=color-snake.svg" />
-</p>
+## 🔗 Let's Connect
 
----
-
-### 🔗 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/atikur-rahman-ar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
