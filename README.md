@@ -16,21 +16,12 @@
 
 ## 🚀 About Me
 
-<table align="center">
-  <tr>
-    <td width="60%" style="vertical-align: top;">
-      <ul>
-        <li>🏢 Working on <b>Frontend Projects</b> using <b>React & Next.js</b></li>
-        <li>🌱 Learning <b>Data Structures & Algorithms (C++)</b></li>
-        <li>⚡ Deep interest in <b>Naval Architecture & Tech</b></li>
-        <li>💬 Ask me about <b>UI/UX, Tailwind CSS, or JavaScript</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicXF6bm96amV6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" />
-    </td>
-  </tr>
-</table>
+Frontend Developer passionate about building modern, responsive, and user-friendly web applications. Currently learning React and advanced JavaScript, with a strong focus on improving problem-solving skills and writing clean, efficient code. I enjoy turning ideas into real-world projects and continuously strive to grow as a professional developer. 🚀
+
+- 🏢 Working at **Cumilla, Bangladesh**
+- 🌱 Currently learning **React, Advanced JavaScript, Next**
+- 💬 Ask me about **Frontend Development, JavaScript, React, Responsive Design**
+- ⚡ I enjoy solving coding problems and building cool web apps 🚀
 
 ---
 
