@@ -16,12 +16,21 @@
 
 ## 🚀 About Me
 
-Frontend Developer passionate about building modern, responsive, and user-friendly web applications. Currently learning React and advanced JavaScript, with a strong focus on improving problem-solving skills and writing clean, efficient code. I enjoy turning ideas into real-world projects and continuously strive to grow as a professional developer. 🚀
-
-- 🏢 Working at **Cumilla, Bangladesh**
-- 🌱 Currently learning **React, Advanced JavaScript, Next**
-- 💬 Ask me about **Frontend Development, JavaScript, React, Responsive Design**
-- ⚡ I enjoy solving coding problems and building cool web apps 🚀
+<table border="0">
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      Frontend Developer passionate about building modern, responsive, and user-friendly web applications. Currently learning React and advanced JavaScript, with a strong focus on improving problem-solving skills and writing clean, efficient code. I enjoy turning ideas into real-world projects and continuously strive to grow as a professional developer. 🚀
+      <br /><br />
+      - 🏢 Working at <b>Cumilla, Bangladesh</b> <br />
+      - 🌱 Currently learning <b>React, Advanced JavaScript, Next</b> <br />
+      - 💬 Ask me about <b>Frontend Development, JavaScript, React, Responsive Design</b> <br />
+      - ⚡ I enjoy solving coding problems and building cool web apps 🚀
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHBicXF6bm96amV6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6ZzJ6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="220px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -29,17 +38,13 @@ Frontend Developer passionate about building modern, responsive, and user-friend
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,mongodb,express,nodejs,cpp,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,mongodb,express,nodejs,git,github&theme=dark" />
   </a>
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atik783505&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Atik's Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atik783505&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
