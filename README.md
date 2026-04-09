@@ -8,6 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Learner;Problem+Solver;Based+in+Bangladesh)](https://git.io/typing-svg)
 
+![](https://komarev.com/ghpvc/?username=atik783505&color=58A6FF&style=flat-square&label=PROFILE+VIEWS)
+
 </div>
 
 ---
@@ -49,19 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atik783505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atik783505&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 Activity Graph
-
-<p align="center">
-  <img src="https://github-user-contribution-graph-snake.vercel.app/api/github-contribution-grid-snake.svg?github_user_name=atik783505&outputs=color-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
